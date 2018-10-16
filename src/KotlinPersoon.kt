@@ -1,0 +1,1 @@
+class KotlinPersoon(val ssn: String, geslacht: String) : JavaPerson()
